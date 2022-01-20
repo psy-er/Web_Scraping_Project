@@ -1,13 +1,7 @@
-import inline as inline
-import matplotlib
 import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
-import plotly
-import plotly.graph_objects as go
-import plotly.express as px
 
 import matplotlib
 matplotlib.rcParams['font.family'] ='Malgun Gothic'
